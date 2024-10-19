@@ -9,7 +9,7 @@
 </h3>
 <h4>Tools & Technologies: HTML, CSS, Tailwind CSS, Javascript, API</h4>
 <h4># API
-AllPosts: - https://openapi.programming-hero.com/api/retro-forum/posts</h4>h4>
+AllPosts: - https://openapi.programming-hero.com/api/retro-forum/posts</h4>
 <br>
 
 <h2>Project Demo:</h2>
